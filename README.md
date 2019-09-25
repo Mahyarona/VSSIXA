@@ -1,7 +1,7 @@
 # Vegetation Spectral-Structral Information eXtraction Infromation (VSSIXA) 
 To analyze and extract 3D information from the point cloud dataset and spectral information from the high-resolution imagery, a new algorithm called Vegetation Structural-Spectral Information eXtraction Algorithm (VSSIXA), using Python and ArcGIS Pro libraries, was developed. The code of this algorithm is available at (https://github.com/Mahyarona/VSSIXA).  Fig \ref{fig:6-1} shows components of VSSIXA in a flowchart diagram. 
 
-| ![A workflow of proposed VSSIXA algorithm](https://github.com/Mahyarona/VSSIXA/blob/master/Flowchart_VSSIXA.png) | 
+| ![A workflow of proposed VSSIXA algorithm \label{fig:6-1}](https://github.com/Mahyarona/VSSIXA/blob/master/Flowchart_VSSIXA.png) | 
 |:--:| 
 | *A workflow of proposed VSSIXA algorithm* |
 
