@@ -5,6 +5,9 @@ To analyze and extract 3D information from the point cloud dataset and spectral 
 |:--:| 
 | *A workflow of proposed VSSIXA algorithm* |
 
+[image]: https://github.com/Mahyarona/VSSIXA/blob/master/Flowchart_VSSIXA.png "Image Title" 
+![Alt text][image] 
+A reference to the [image](#image).
 
 <!---![A workflow of proposed VSSIXA algorithm](https://github.com/Mahyarona/VSSIXA/blob/master/Flowchart_VSSIXA.png)-->
 
