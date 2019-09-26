@@ -24,3 +24,20 @@ The difference between VSSIXA-I and VSSIXA-II in relative height calculation may
 |:--:| 
 | *Fig 3. Differences between VSSIXA-I and VSSIXA-II in estimation of canopy surface area, projected surface area, volume and average height* |
 
+# Citation
+If you use VSSIXA in any academic work then you *must* cite the following papers:
+
+Aboutalebi, M., Torres-Rua, A., McKee, M., Kustas, W. P., Nieto, H., Alsina, M., White, A., Prueger, J., McKee, L., Alfieri, J., Hipps, L., Coopmans, C., and Dokoozlian, N. "Incorporation of Unmanned Aerial Vehicle (UAV) Point Cloud Product into Remote Sensing Evapotranspiration Models", Remote Sensing, 2019.
+
+
+In BibTeX format:
+
+@Article{Aboutalebi2019,
+  Title                    = {Incorporation of Unmanned Aerial Vehicle (UAV) Point Cloud Product into Remote Sensing Evapotranspiration Models},
+  Author                   = {M. Aboutalebi and A. Torres-Rua and M. McKee and W. P. Kustas and H. Nieto and M. Alsina and A. White and J. Prueger and L. McKee and J. Alfieri and L. Hipps and C. Coopmans and N. Dokoozlian},
+  Journal                  = {Remote Sensing},
+  Year                     = {2019},
+  Number                   = {},
+  Pages                    = {},
+  Volume                   = {}
+}
